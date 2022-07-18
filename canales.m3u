@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -108,3 +109,30 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/16_.m3u8?token=OdtwkQdGMh9Hu
 
 #EXTINF:-1 tvg-chno="36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/1200px-DirecTV_Sports_Latin_America_%282018%29.png",DIRECTV SPORT
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/20_.m3u8?token=XQKW0Pn1V2Wa52hYjkSU-Q&expires=1658201045&ip=161.10.148.230
+
+#EXTINF:-1 tvg-chno="37" tvg-logo="https://blog.orange.es/wp-content/uploads/2015/08/beinsports.jpg", BIN SPORT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/23_.m3u8?token=UFzEg2OmfvuyMC_K7vNU2g&expires=1658201114&ip=161.10.148.230
+
+#EXTINF:-1 tvg-chno="38" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQRI3mEOiupl_kjSfou3d07IWcVPc8cv8prpTjU=s900-c-k-c0x00ffffff-no-rj",TIGO SPORT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/201_.m3u8?token=FaK9fuENy2LAowdnC-xVRQ&expires=1658201847&ip=161.10.148.230
+
+#EXTINF:-1 tvg-chno="39" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png",MOVISTAR DEPORTES
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/194_.m3u8?token=BbqlwGWt-ewdG4rTRX9fEg&expires=1658201885&ip=161.10.148.230
+
+#EXTINF:-1 tvg-chno="40" tvg-logo="http://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png",HISTORY
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/49_.m3u8?token=7ymuUsGAUqsYq4YLq_ml3Q&expires=1658201925&ip=161.10.148.230
+
+#EXTINF:-1 tvg-chno="41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",HISTORY 2
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/50_.m3u8?token=wDbaKdzICj6eCVGaGZFpdw&expires=1658201968&ip=161.10.148.230
+
+#EXTINF:-1 tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NATIONAL GEOGRAPHIC
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/92_.m3u8?token=1kVIUsSVUA8Vz3Ne3m0qmQ&expires=1658202007&ip=161.10.148.230
+
+#EXTINF:-1 tvg-chno="43" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/800px-National_Geographic_Wild_logo.svg.png",NAT GEO WILD
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/93_.m3u8?token=NGaL6HEXeDDQK1ACOGHm0A&expires=1658202069&ip=161.10.148.230
+
+#EXTINF:-1 tvg-chno="44" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png",ANIMAL PLANET
+https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png
+
+#EXTINF:-1 tvg-chno="42" tvg-logo="https://img2.freepng.es/20180417/gww/kisspng-television-channel-e-television-producer-entertai-tv-shows-5ad61659e7e7d3.0380401115239798659499.jpg",EVERYTHING
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/103_.m3u8?token=QGLiYu_gccmxWE5fMY177Q&expires=1658202162&ip=161.10.148.230
