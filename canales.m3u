@@ -2,23 +2,8 @@
 #EXTM3U
 
 
-#EXTINF:-1,SPACE
+#EXTM3U
+
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://cablemio.com/wp-content/uploads/2020/08/Canal-Space.png",SPACE
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=fVWGVfMZGLxm-28M-VKHdw&expires=1658192557&ip=161.10.157.152
-
-#EXTINF:-1,TNT
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=LsEj0xIws6x1aNjwxtqTrA&expires=1658192851&ip=161.10.157.152
-
-#EXTINF:-1,CINE CANAL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=vywIJmaGUeAslHfitPpAQA&expires=1658192980&ip=161.10.157.152
-
-#EXTINF:-1,WARNNER TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=_PjDUunW9ATMud9DVqqXVg&expires=1658193071&ip=161.10.157.152
-
-#EXTINF:-1,CINEMAX
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/43_.m3u8?token=CptbbReLtYcJdDAXjQ9Xhg&expires=1658193103&ip=161.10.157.152
-
-#EXTINF:-1,SYFY
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=TNlB-nnGwRct7S0njK_n0A&expires=1658193135&ip=161.10.157.152
-
-#EXTINF:-1,STAR CHANNEL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=SjK-_0daBBjjLf6b3NmiPw&expires=1658193168&ip=161.10.157.152
