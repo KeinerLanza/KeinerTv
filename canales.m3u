@@ -10,3 +10,6 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=2CiRlI5ixya2p
 #EXTINF:-1, tvg-name="CINE CANAL" group-title="Cine y Series" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png",CINE CANAL
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=TeaEJWZf2OGAVhgMfs57Rg&expires=1658264693&ip=161.10.148.230
 
+#EXTINF:-1, tvg-name="WARNER TV" group-title="Cine y Series"https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/2116px-Warner_Channel.svg.png",WARNER TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=yXs731Ic8iM9SQcT7aIHLQ&expires=1658265166&ip=161.10.148.230
+
