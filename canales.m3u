@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 
@@ -37,3 +36,18 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=1doISuJXEd6a
 
 #EXTINF:-1, tvg-name="GOLDEN PLUS" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es",GOLDEN PLUS
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=mm7LvCjJoYuUclv1z3EX8A&expires=1658266414&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="GOLDEN EDGE" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Logo-goldedge.png/revision/latest/scale-to-width-down/240?cb=20200422165936",GOLDEN EDGE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=Ja75BdN0m04pncujiCmOSw&expires=1658266663&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="GOLDEN PREMIER" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png/revision/latest?cb=20200422173832",GOLDEN PREMIER
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/75_.m3u8?token=KKQdxeR-paTQS-T91wu1oA&expires=1658266591&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="MULTIPREMIER" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Multipremier_logo_2020.png/revision/latest/scale-to-width-down/1200?cb=20201129220038&path-prefix=es",MULTIPREMIER
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=-s9Na8_3Z6JTO-R_-I_kOQ&expires=1658266787&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="AXN" group-title="Cine y Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbVfaJztoxvXGf28Uem-iBLQtmG0eo4KSi4tsyT1vNH0heVAjJi-l20liXx_mXHLdccA&usqp=CAU",AXN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=gGzJ4gVfw187WuTeXfOakA&expires=1658266977&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="UNIVERSAL CHANNEL" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL CHANNEL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=4UkdgOF2aixNrtyDLov0Lw&expires=1658267005&ip=161.10.148.230
