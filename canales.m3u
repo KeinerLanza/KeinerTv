@@ -30,7 +30,10 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=hEBJL8gCDQ_vg
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/38_.m3u8?token=hzN_aMwhLSr6fK71gYqFlQ&expires=1658265959&ip=161.10.148.230
 
 #EXTINF:-1, tvg-name="FX" group-title="Cine y Series" tvg-logo="https://telefonosatencioncliente.com/wp-content/uploads/2018/11/FX-TV--e1575919104357.png",FX
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=gF9sGbKrJwiyXp6koePKlg&expires=1658196609&ip=161.10.148.230
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=V8Qv8JgJgRosTW2NLglf_Q&expires=1658266289&ip=161.10.148.230
 
-#EXTINF:-1, tvg-name=" " group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_TV_logo.png/496px-Golden_TV_logo.png",GOLDEN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=pVOy0UeOMcHO81LTksg2dA&expires=1658196704&ip=161.10.148.230
+#EXTINF:-1, tvg-name="GOLDEN" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_TV_logo.png/496px-Golden_TV_logo.png",GOLDEN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=1doISuJXEd6aqiYHfSq7ZA&expires=1658266380&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="GOLDEN PLUS" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es",GOLDEN PLUS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=mm7LvCjJoYuUclv1z3EX8A&expires=1658266414&ip=161.10.148.230
