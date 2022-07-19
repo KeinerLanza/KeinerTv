@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -7,6 +8,9 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=P1kEQ-5dOaH_o
 #EXTINF:-1, tvg-name="TNT" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=2CiRlI5ixya2pph-GbFCRQ&expires=1658262485&ip=161.10.148.230
 
+#EXTINF:-1, tvg-name="TNT SERIES" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT SERIES
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=61UDyo_MICOmKu9i2TjotQ&expires=1658265894&ip=161.10.148.230
+
 #EXTINF:-1, tvg-name="CINE CANAL" group-title="Cine y Series" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png",CINE CANAL
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=TeaEJWZf2OGAVhgMfs57Rg&expires=1658264693&ip=161.10.148.230
 
@@ -15,3 +19,18 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=yXs731Ic8iM9S
 
 #EXTINF:-1, tvg-name="CINEMAX" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",CINEMAX
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/43_.m3u8?token=6_7PZ-cnaj-OM2WqJX_heA&expires=1658265289&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="SYFY" group-title="Cine y Series" tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Syfy-logo.png",SYFY
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=710TIF03A3Vj4FyxpoIBAQ&expires=1658265703&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="STAR CHANNEL" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/2560px-Star_Channel_2021.png",STAR CHANNEL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=hEBJL8gCDQ_vgaFntwaj1g&expires=1658265730&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="STAR ACTION" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Star_Action_2021.png",STAR ACTION
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/38_.m3u8?token=hzN_aMwhLSr6fK71gYqFlQ&expires=1658265959&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="FX" group-title="Cine y Series" tvg-logo="https://telefonosatencioncliente.com/wp-content/uploads/2018/11/FX-TV--e1575919104357.png",FX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=gF9sGbKrJwiyXp6koePKlg&expires=1658196609&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name=" " group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_TV_logo.png/496px-Golden_TV_logo.png",GOLDEN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=pVOy0UeOMcHO81LTksg2dA&expires=1658196704&ip=161.10.148.230
