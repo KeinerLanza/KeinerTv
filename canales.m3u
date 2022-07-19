@@ -4,3 +4,6 @@
 
 #EXTINF:-1, tvg-name="SPACE" group-title="Cine y Series" tvg-logo="https://cablemio.com/wp-content/uploads/2020/08/Canal-Space.png" ,SPACE
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=P1kEQ-5dOaH_oZfkgEPYag&expires=1658261431&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="TNT" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=2CiRlI5ixya2pph-GbFCRQ&expires=1658262485&ip=161.10.148.230
