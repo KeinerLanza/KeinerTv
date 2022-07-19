@@ -6,3 +6,7 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=P1kEQ-5dOaH_o
 
 #EXTINF:-1, tvg-name="TNT" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=2CiRlI5ixya2pph-GbFCRQ&expires=1658262485&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="CINE CANAL" group-title="Cine y Series" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png",CINE CANAL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=TeaEJWZf2OGAVhgMfs57Rg&expires=1658264693&ip=161.10.148.230
+
