@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -51,3 +52,15 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=gGzJ4gVfw187W
 
 #EXTINF:-1, tvg-name="UNIVERSAL CHANNEL" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL CHANNEL
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=4UkdgOF2aixNrtyDLov0Lw&expires=1658267005&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="STUDIO UNIVERSAL" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/80_.m3u8?token=8hMAMWZ-0IVZy-SbPY_1xw&expires=1658267167&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="AMC" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",AMC
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=_OMyHsQ9L2eZ-wht9n3lVQ&expires=1658267233&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="DE PELICULA" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",DE PELICULA
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=iIQ0hLYmniSKeWm5NQb4Ew&expires=1658267282&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="TCN" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/152_.m3u8?token=c4yIIxv0uGO-A6xl1AwBEA&expires=1658267338&ip=161.10.148.230
