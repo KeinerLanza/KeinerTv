@@ -67,3 +67,6 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/152_.m3u8?token=c4yIIxv0uGO-
 
 #EXTINF:-1, tvg-name="WIN SPORT" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/800px-WinSports2017.png",WIN SPORT
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/8_.m3u8?token=CCbuysWe-NzZje1AkN3tew&expires=1658268172&ip=161.10.148.230
+
+#EXTINF:-1, tvg-name="WIN SPORT+" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/800px-Win_Sports%2B_logo.svg.png",WIN SPORT+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/140_.m3u8?token=54hjBk4n12uhVT8M-IQdLw&expires=1658268630&ip=161.10.148.230
