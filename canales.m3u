@@ -65,8 +65,11 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=q_WcDp0AFFfPQ
 #EXTINF:-1 tvg-chno="21" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCN
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/152_.m3u8?token=aSLjj6-syqV8ff3nEfFPBQ&expires=1658430436&ip=191.95.17.205
 
+#EXTINF:-1 tvg-chno="22" group-title="Cine y Series" tvg-logo="http://orbittv.net/images/orbit_logo4.png" , ORBITA TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w844542941.m3u8
+
 #EXTINF:-1 tvg-chno="22" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/800px-WinSports2017.png",WIN SPORT
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/8_.m3u8?token=w-l1QikRBGB-MVFd-cMoLw&expires=1658430456&ip=191.95.17.205
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/8_.m3u8?token=U5Aj2Tuy98H9G-MlZ0_M3g&expires=1658451348&ip=161.10.148.230
 
 #EXTINF:-1 tvg-chno="23" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/800px-Win_Sports%2B_logo.svg.png",WIN SPORT+
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/140_.m3u8?token=kRBLW8MlPjIGyuPH79QRXw&expires=1658286303&ip=161.10.148.230
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/140_.m3u8?token=QniIeH_jDQKKCpduVzQEOg&expires=1658451318&ip=161.10.148.230
