@@ -2,71 +2,71 @@
 #EXTM3U
 
 
-#EXTINF:-1, tvg-name="SPACE" group-title="Cine y Series" tvg-logo="https://cablemio.com/wp-content/uploads/2020/08/Canal-Space.png" ,SPACE
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=ZEOPMGbKELHLbx0rlXOmdg&expires=1658286331&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="1" group-title="Cine y Series" tvg-logo="https://cablemio.com/wp-content/uploads/2020/08/Canal-Space.png" ,SPACE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=_f83EkDNVvrRIWGYs11d2Q&expires=1658429637&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="TNT" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=T5mCa6dv1fNqWZ71UehYWA&expires=1658286353&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="2" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png",TNT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=QNHIlhRaVC5wwJ0J7VNTcg&expires=1658429683&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="TNT SERIES" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT SERIES
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=tUFdZiECqVqsMAol-R_tSA&expires=1658286577&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="3" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT SERIES
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=ic4NU8Bv6kveCMso0rO4Ag&expires=1658429755&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="CINE CANAL" group-title="Cine y Series" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png",CINE CANAL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=vutmsQe49v51lkP0NT5_Vw&expires=1658286617&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="4" group-title="Cine y Series" tvg-logo="https://i.pinimg.com/originals/c1/4f/75/c14f754e78f60f3a8829b2b5c2e1276a.png",CINE CANAL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=v20W1NnpiBjr6vSHOcL6GQ&expires=1658429777&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="WARNER TV" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/2116px-Warner_Channel.svg.png",WARNER TV
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=6UX6oyT_Vh3qCaDrZUuHbg&expires=1658286595&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="5" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/2116px-Warner_Channel.svg.png",WARNER TV
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=-SqU2OwoPkgrsVsHM1jSqg&expires=1658429716&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="CINEMAX" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",CINEMAX
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/43_.m3u8?token=JQJbXN8ebq4KbZFAq8dXlQ&expires=1658286635&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="6" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",CINEMAX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/43_.m3u8?token=-l67gt3sqp4igOI1tHnDUg&expires=1658429802&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="SYFY" group-title="Cine y Series" tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Syfy-logo.png",SYFY
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=yJp6T719-NjdJMBu7MRG5Q&expires=1658286655&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="7" group-title="Cine y Series" tvg-logo="https://marcas-logos.net/wp-content/uploads/2021/09/Syfy-logo.png",SYFY
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=YRpgMSYn6hNoy1-KrVRJrQ&expires=1658429846&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="STAR CHANNEL" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/2560px-Star_Channel_2021.png",STAR CHANNEL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=CDZ__h_lLalFPUa-8QSQ0g&expires=1658286675&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="8" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Star_Channel_2021.png/2560px-Star_Channel_2021.png",STAR CHANNEL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=UCADgD0optTKBgqBNSOj3A&expires=1658429870&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="STAR ACTION" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Star_Action_2021.png",STAR ACTION
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/38_.m3u8?token=fgLTaPsA5SnhsAyaEQ_T-A&expires=1658286703&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="9" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Star_Action_2021.png",STAR ACTION
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/38_.m3u8?token=UOGBRqPJxr2gZrHx2z8gxw&expires=1658429920&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="FX" group-title="Cine y Series" tvg-logo="https://telefonosatencioncliente.com/wp-content/uploads/2018/11/FX-TV--e1575919104357.png",FX
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=W_yuT4ykL0-2l0VFh66dwA&expires=1658286725&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="10" group-title="Cine y Series" tvg-logo="https://telefonosatencioncliente.com/wp-content/uploads/2018/11/FX-TV--e1575919104357.png",FX
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=8PucnQXpGD-wQczRLGv1mQ&expires=1658429954&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="GOLDEN" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_TV_logo.png/496px-Golden_TV_logo.png",GOLDEN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=78FbIlO7aC_CdDZHxRwGww&expires=1658286744&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="11" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Golden_TV_logo.png/496px-Golden_TV_logo.png",GOLDEN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/202_.m3u8?token=fJj1MfojaJv3Sah_JX1K_w&expires=1658429984&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="GOLDEN PLUS" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es",GOLDEN PLUS
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=nkOekjZr0zARV4sggM_a5A&expires=1658286764&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="12" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest/scale-to-width-down/300?cb=20191215194002&path-prefix=es",GOLDEN PLUS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/73_.m3u8?token=4WFLrgBffhrikewJbnR2Ow&expires=1658430108&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="GOLDEN EDGE" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Logo-goldedge.png/revision/latest/scale-to-width-down/240?cb=20200422165936",GOLDEN EDGE
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=pqEGAKRsqdS3biJkpiE9AA&expires=1658286782&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="13" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Logo-goldedge.png/revision/latest/scale-to-width-down/240?cb=20200422165936",GOLDEN EDGE
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/74_.m3u8?token=cjaAiQA2cFiHPlsJdQfliw&expires=1658430127&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="GOLDEN PREMIER" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png/revision/latest?cb=20200422173832",GOLDEN PREMIER
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/75_.m3u8?token=aRcdnUbD9fTEE9twysAF1Q&expires=1658286802&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="14" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Golden_premier.png/revision/latest?cb=20200422173832",GOLDEN PREMIER
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/75_.m3u8?token=rjH4WJDhjxieeb5eW3HD9w&expires=1658430147&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="MULTIPREMIER" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Multipremier_logo_2020.png/revision/latest/scale-to-width-down/1200?cb=20201129220038&path-prefix=es",MULTIPREMIER
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=f1n4rzb41ngAHiyF9894DA&expires=1658286818&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="15" group-title="Cine y Series" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Multipremier_logo_2020.png/revision/latest/scale-to-width-down/1200?cb=20201129220038&path-prefix=es",MULTIPREMIER
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=4KqPWcz2DHJyElN-C3IStg&expires=1658430270&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="AXN" group-title="Cine y Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbVfaJztoxvXGf28Uem-iBLQtmG0eo4KSi4tsyT1vNH0heVAjJi-l20liXx_mXHLdccA&usqp=CAU",AXN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=U0lQ6GuR6pYqam8Ofr0uOg&expires=1658286838&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="16" group-title="Cine y Series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbVfaJztoxvXGf28Uem-iBLQtmG0eo4KSi4tsyT1vNH0heVAjJi-l20liXx_mXHLdccA&usqp=CAU",AXN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=sIPKKeH7cP9SCiRKurykWA&expires=1658430285&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="UNIVERSAL CHANNEL" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL CHANNEL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=3nW_tOoZd71LY5VNPRttlg&expires=1658286858&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="17" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/2560px-Universal_Channel_Logo_2013.svg.png", UNIVERSAL CHANNEL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=OHiFe9vmVJ8buRwf3fcg8Q&expires=1658430330&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="STUDIO UNIVERSAL" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/80_.m3u8?token=5JQTYWcYbH-R0JeIBR3jdg&expires=1658286880&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="18" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/80_.m3u8?token=DZiRU5i-dLHNaR6x1AuZwg&expires=1658430351&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="AMC" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",AMC
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=4wenCqby7b7unYmXeIdqVg&expires=1658286895&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="19" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",AMC
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=2RcYWDXX5LKvvnQV6wsbSw&expires=1658430369&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="DE PELICULA" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",DE PELICULA
+#EXTINF:-1 tvg-chno="20" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",DE PELICULA
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=q_WcDp0AFFfPQx4Bnykyrw&expires=1658286918&ip=161.10.148.230
 
-#EXTINF:-1, tvg-name="TCN" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCN
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/152_.m3u8?token=2Hgr-sVaO1Mj4PHDAMa_Sw&expires=1658286951&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="21" group-title="Cine y Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCN
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/152_.m3u8?token=aSLjj6-syqV8ff3nEfFPBQ&expires=1658430436&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="WIN SPORT" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/800px-WinSports2017.png",WIN SPORT
-https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/8_.m3u8?token=I9XkEP_A-bIvyBg4zgxIfg&expires=1658286271&ip=161.10.148.230
+#EXTINF:-1 tvg-chno="22" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/800px-WinSports2017.png",WIN SPORT
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/8_.m3u8?token=w-l1QikRBGB-MVFd-cMoLw&expires=1658430456&ip=191.95.17.205
 
-#EXTINF:-1, tvg-name="WIN SPORT+" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/800px-Win_Sports%2B_logo.svg.png",WIN SPORT+
+#EXTINF:-1 tvg-chno="23" group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/800px-Win_Sports%2B_logo.svg.png",WIN SPORT+
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/140_.m3u8?token=kRBLW8MlPjIGyuPH79QRXw&expires=1658286303&ip=161.10.148.230
